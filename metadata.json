@@ -1,0 +1,5 @@
+{
+  "name": "Kora GRC - Supabase 2",
+  "description": "A B2B SaaS dashboard for Third-Party Risk Management. Features an AI-powered risk analyst using Google Gemini to evaluate vendor profiles, generate risk scores, and suggest mitigation strategies.",
+  "requestFramePermissions": []
+}
